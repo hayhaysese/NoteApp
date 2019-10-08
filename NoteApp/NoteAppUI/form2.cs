@@ -11,9 +11,9 @@ using NoteApp;
 
 namespace NoteAppUI
 {
-    public partial class Form1 : Form
+    public partial class form2 : Form
     {
-        public Form1()
+        public form2()
         {
             InitializeComponent();
         }
